@@ -3,4 +3,4 @@ by Thi Thuc Nguyen, Nadav Bekin, Ariel Altman, Martin Maier, Nurit Agam, Elad Le
 
 The repository includes:
 1. Do-it-yourself guide to replicate CO2 sensor system: "CO2 sensor system DIY guide"
-2.  Arduino codes of two versions of the system (Version 1: 
+2.  Arduino codes of two versions of the system (Version 1:  CO2O2Soils_withRelay_6CO2sensors.ino and Version 2: 
